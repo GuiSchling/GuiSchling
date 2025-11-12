@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hey there!
 
-<!--
-**GuiSchling/GuiSchling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Engineering Physics student at UFRGS, passionate about the intersection between physics, computation, and innovation.  
 
-Here are some ideas to get you started:
+ I enjoy working on **embedded systems, IoT, and automation** projects — exploring how hardware and software can create smart solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm also deeply interested in **data science and quantum computing**, where physics and math meets computation to uncover new possibilities.  
+
+ Always learning, experimenting, and building.  
+
+---
+
+###  Tech Stack
+- **Languages:** Python, C/C++
+- **Interests:** IoT, Data Analysis, Machine Learning, Quantum Computing  
+- **Tools:** Arduino, ESP8266/ESP32, Jupyter, Git  
+
+---
+
+###  Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiSchling)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-schling-moura-191417245)
+
+---
+
+
